@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/lakshmangiri/client.git
+[submodule "web3"]
+	path = web3
+	url = https://github.com/lakshmangiri/web3.git
