@@ -5,7 +5,7 @@ About:
     This is a web application that allows users to donate cryptocurrency to the charities.
 
 Demo:
-    The application can be found live in the following link: https://keen-lokum-06e111.netlify.app
+    The application can be found live in the following link: [https://trustfundweb.netlify.app/](https://trustfundweb.netlify.app/)
 
 The application has been hosted in the Netlify, a open source and free platform to host web application.
 
