@@ -12,28 +12,28 @@ The application has been hosted in the Netlify, a open source and free platform 
 Libraries/Frameworks used:
 --------------------------------------------------
 
-1. ReactJs:
+1. **ReactJs:**
     React is a free and open-source front-end JavaScript library for building user interfaces based on components. React can be used to develop single-page, mobile, or server-rendered applications
 
-2. Web3Js:
+2. **Web3Js:**
     A library that allow developers to interact with a remote or local Ethereum node using HTTP, IPC, or WebSocket. Using this library, you can develop websites or clients that interact with the blockchain.
 
-3. ThirdWeb:
+3. **ThirdWeb:**
     Thirdweb offers software development kits (SDKs) that allow seamless integration with your smart contract when developing applications or games using popular programming languages such as React, React Native, TypeScript, Python, Go, and Unity.
 
-4. Hardhat:
+4. **Hardhat:**
     It's a flexible and extensible task runner that helps you manage and automate the recurring tasks inherent to developing smart contracts and dApps. Hardhat is a development environment for Ethereum software. It consists of different components for editing, compiling, debugging and deploying your smart contracts and dApps, all of which work together to create a complete development environment
 
-5. Solidity:
+5. **Solidity:**
     Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. Solidity is licensed under GNU General Public License v3.0.
 
-6. ViteJs
+6. **ViteJs**
     Vite is a frontend tool that is used for building fast and optimized web applications. It uses a modern build system and a fast development server to provide a streamlined and efficient development experience. Used ny default in Vue and React project templates.
 
-7. Tailwind CSS
+7. **Tailwind CSS**
     Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 
-8. Ethers
+8. **Ethers**
     Ethers. js is a JavaScript library for Ethereum Blockchain development. It provides a simple and easy-to-use interface for interacting with Ethereum smart contracts. It supports contract deployment, function calls, and events handling.
 
 Building and Deploying Smart Contract using Thirdweb
